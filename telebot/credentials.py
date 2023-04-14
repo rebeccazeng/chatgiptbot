@@ -1,3 +1,3 @@
-bot_token = "BOT-TOKEN-GOES-HERE"
-bot_user_name = "BOT-USER-NAME"
+bot_token = 6151587667:AAFeViONAFBFOCuf45fuFHukK5nIbMq0dx0
+bot_user_name = chatgipt_bot
 URL = "THE-HEROKU-APP-LINK"
